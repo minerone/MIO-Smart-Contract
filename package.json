@@ -1,0 +1,31 @@
+{
+  "name": "minerone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bignumber": "1.1.0",
+    "bignumber.js": "^5.0.0",
+    "chai": "4.1.2",
+    "chai-as-promised": "7.1.1",
+    "chai-bignumber": "2.0.2",
+    "zeppelin-solidity": "1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockvis/minerone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blockvis/minerone/issues"
+  },
+  "homepage": "https://github.com/blockvis/minerone#readme"
+}
